@@ -1,0 +1,3 @@
+V1,Toyota,Camry,50.0
+V2,Honda,CBR500R,10.0
+V3,Ford,Transit,80.0
